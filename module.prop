@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=oos-custom-notification
+name=OxygenOS Custom Notification
+version=0.0.0
+versionCode=0
+author=wweber
+description=Adds custom audio files for notification tones.
 template=4
